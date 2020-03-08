@@ -1,4 +1,6 @@
 package main;
+//This mini application connects to  free sport-API, gets results of more 1000 football championships and outputs total tournament table.
+//You can change the number 2 to another in the parse method parameter and change the championship. I chose the English Premier League by default.
 
 import java.util.*;
 
